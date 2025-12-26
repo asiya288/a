@@ -15,11 +15,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" 
            alt="Music Logo" 
            style="width: 80px; height: 80px; filter: drop-shadow(0 4px 5px rgba(0,0,0,0.1));">
-    </div>
-
-    <h3 style="margin: 10px 0 5px 0; color: #222;">Song Title</h3>
-    <p style="margin: 0 0 20px 0; color: #777; font-size: 14px;">Artist Name</p>
-
     <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 25px;">
       <button style="width: 50px; height: 50px; border: none; background-color: #333; color: white; border-radius: 50%; cursor: pointer; font-size: 18px; transition: 0.3s;">⏮️</button>
       <button style="width: 60px; height: 60px; border: none; background-color: #ff4d4d; color: white; border-radius: 50%; cursor: pointer; font-size: 24px; transition: 0.3s;">▶️</button>
